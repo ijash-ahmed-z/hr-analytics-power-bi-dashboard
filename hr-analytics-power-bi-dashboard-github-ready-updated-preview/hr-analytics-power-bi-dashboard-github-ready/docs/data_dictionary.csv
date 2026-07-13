@@ -1,0 +1,39 @@
+TableName,ColumnName,DataType
+HR_Analytics,Empoyee ID,string
+HR_Analytics,Age,Int64
+HR_Analytics,Age Group,string
+HR_Analytics,Attrition,string
+HR_Analytics,Business Travel,string
+HR_Analytics,Daily Rate,Int64
+HR_Analytics,Department,string
+HR_Analytics,Distance From Home,Int64
+HR_Analytics,Education,Int64
+HR_Analytics,Education Field,string
+HR_Analytics,Employee Count,Int64
+HR_Analytics,Employee Number,Int64
+HR_Analytics,Environment Satisfaction,Int64
+HR_Analytics,Gender,string
+HR_Analytics,Hourly Rate,Int64
+HR_Analytics,Job Involvement,Int64
+HR_Analytics,Job Level,Int64
+HR_Analytics,Job Role,string
+HR_Analytics,Job Satisfaction,Int64
+HR_Analytics,Marital Status,string
+HR_Analytics,Monthly Income,Int64
+HR_Analytics,Salary Slab,string
+HR_Analytics,Monthly Rate,Int64
+HR_Analytics,Number of Companies Worked,Int64
+HR_Analytics,Over18,string
+HR_Analytics,Over Time,string
+HR_Analytics,Percent Salary Hike,Int64
+HR_Analytics,Performance Rating,Int64
+HR_Analytics,Relationship Satisfaction,Int64
+HR_Analytics,Standard Hours,Int64
+HR_Analytics,Stock Option Level,Int64
+HR_Analytics,Total Working Years,Int64
+HR_Analytics,Training Times Last Year,Int64
+HR_Analytics,Work Life Balance,Int64
+HR_Analytics,Years At Company,Int64
+HR_Analytics,Years In Current Role,Int64
+HR_Analytics,Years Since Last Promotion,Int64
+HR_Analytics,Years With Current Manager,Int64
