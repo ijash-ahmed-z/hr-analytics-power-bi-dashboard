@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![Original Power BI dashboard screenshot](assets/dashboard-preview.png)
+![Original Power BI dashboard screenshot](assets/image.png)
 
 > Preview shown above is the original report screenshot from the completed Power BI dashboard. A recreated model-based preview is also preserved at `assets/dashboard-preview-recreated.png`.
 
