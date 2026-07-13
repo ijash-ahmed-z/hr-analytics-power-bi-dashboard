@@ -1,0 +1,14 @@
+Visual,Title,Fields,X,Y,Width,Height
+cardVisual,Total Employees,HR_Analytics.Total Employees,24.5,106.7,178.7,93.7
+cardVisual,Attrition Rate,HR_Analytics.Attrition Rate,214.8,106.7,187.4,93.7
+cardVisual,Employees left,HR_Analytics.Employees Left,425.2,108.1,200.4,93.7
+cardVisual,Average Monthly Income,HR_Analytics.Average Monthly Income,640.0,108.1,237.8,93.7
+slicer,Average Monthly Income,HR_Analytics.Gender,905.0,105.0,375.0,70.0
+textbox,HR Analytics Dashboard,,10.1,0.0,739.5,85.0
+slicer,Average Monthly Income,HR_Analytics.Department,759.6,2.9,501.6,82.2
+donutChart,Attrition By Education,"HR_Analytics.Education Field, HR_Analytics.Employees Left",30.0,256.2,370.0,203.8
+clusteredColumnChart,Attrition By Age group,"HR_Analytics.Age Group, HR_Analytics.Employees Left",436.2,258.8,460.0,201.2
+pivotTable,Job satisfaction Levels,"HR_Analytics.Job Role, HR_Analytics.Job Satisfaction, HR_Analytics.Employees Left",921.2,186.2,340.0,291.2
+barChart,Attrition By Salary,"HR_Analytics.Salary Slab, HR_Analytics.Employees Left",10.0,477.5,392.5,233.8
+lineChart,Attrition by Experience,"HR_Analytics.Years At Company, HR_Analytics.Employees Left",425.0,481.2,368.8,226.2
+columnChart,Attrition by Department,"HR_Analytics.Department, HR_Analytics.Employees Left",851.2,493.8,410.0,213.8
