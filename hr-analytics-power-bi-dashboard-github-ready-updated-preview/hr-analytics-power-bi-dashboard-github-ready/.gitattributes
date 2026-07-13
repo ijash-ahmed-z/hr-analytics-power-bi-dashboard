@@ -1,0 +1,3 @@
+# Exclude helper scripts from GitHub language statistics
+*.py -linguist-detectable
+*.ipynb -linguist-detectable
